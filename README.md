@@ -8,7 +8,8 @@ It helps users stay **productive, informed, motivated, and organized** from a si
 ---
 
 ## 📸 Preview
-(https://raw.githubusercontent.com/AbdullahZaheer1/Life-Hub-Terminal-Python-Project/refs/heads/main/Design.png)
+![Design](https://raw.githubusercontent.com/AbdullahZaheer1/Life-Hub-Terminal-Python-Project/refs/heads/main/Design.png)
+
 
 ---
 
