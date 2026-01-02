@@ -69,7 +69,7 @@ sudo apt install python3-pip
 ```
 ### 🔹 Step 4: Run the Application
 ``` bash
-python3 main.py
+python3 app.py
 ```
 🖥️ App window opens with size 400 x 70
 
@@ -79,8 +79,9 @@ python3 main.py
 
 For Windows users:
 ``` bash
-App exe file/main.exe
+.\LifeHubTerminal.exe
 ```
+Also double click on app to Run
 
  ⚠️ The .exe file does not work on Linux / Ubuntu
 
